@@ -1,0 +1,31 @@
+.header_invoice_list {
+  display: flex;
+  align-items: center;
+  width: 70%;
+  justify-content: space-between;
+  padding: 10px 0;
+  padding-left: 0.5vh;
+}
+.header{
+  background-color: #445460
+  ;
+}
+.header_abc_products{
+  position:absolute;
+}
+.header_abc_products img{
+ width: 250px;
+  height: 45px;
+}
+img {
+  filter:brightness();
+  -webkit-filter: brightness(100%) saturate(200%);
+  }
+.header_hrc_logo{
+  display: flex;
+  position: relative;
+  padding-left: 43%;
+}
+.header_hrc_logo img{
+  height: 50px;
+}
